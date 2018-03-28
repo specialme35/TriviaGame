@@ -1,0 +1,59 @@
+body {
+    background-image: url("../images/background_img.jpg");
+    background-repeat: repeat;
+  }
+  #screen div {
+    float: ;
+  }
+  
+  #title {
+    width: 250px;
+    padding: 4px;
+    margin-bottom: 10px;
+    color: blue;
+  }
+  
+  #rules-area {
+    width: 500px;
+    height: 500px;
+    padding: 4px;
+    margin-bottom: 10px;
+    background-color: rgb(241, 197, 75);
+  }
+  
+  #button-area {
+    width: 200px;
+    height: 100px;
+    padding: 4px;
+    font-size: 14px;
+  }
+  
+  #timer-area {
+    width: 210px;
+    height: 100px;
+    padding: 4px;
+    color: gray;
+  }
+  
+  #question-area {
+    width: 210px;
+    padding: 4px;
+    margin-bottom: 10px;
+    color: gray;
+  }
+  
+  #choices-button {
+    display: inline;
+  }
+  
+ 
+  
+  #correct-number {
+    font-size: 3vw;
+  }
+  
+  #incorrect-number {
+    font-size: 3vw;
+  }
+  
+ 
